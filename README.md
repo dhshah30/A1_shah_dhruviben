@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * *Date Created*: 02/06/2021
 * *Last Modification Date*: 07/06/2021
 * *URL*: https://github.com/dhshah30/A1_shah_dhruviben/tree/main/code5709
-* *Deployment*: https://dashboard.heroku.com/apps/shah5709/deploy/github
+* *Deployment*: http://localhost:3000/
 * *Branch*: main
 
 ## Author
