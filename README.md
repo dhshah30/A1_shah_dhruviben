@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+* *Date Created*: 02/06/2021
+* *Last Modification Date*: 07/06/2021
+* *URL*: https://github.com/dhshah30/A1_shah_dhruviben/tree/main/code5709
+* *Deployment*: https://dashboard.heroku.com/apps/shah5709/deploy/github
+* *Branch*: main
+
+## Author
+
+[Dhruvi Shah](dh342773@dal.ca) 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
